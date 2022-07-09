@@ -1,0 +1,29 @@
+{
+    "name": "Team Profile Generator",
+    "version": "1.0.0",
+    "description": "App to store and update information on team members",
+    "main": "app.js",
+    "directories": {
+      "lib": "lib",
+      "test": "test"
+    },
+    "scripts": {
+      "test": "jest --verbose test/*"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/emilyarnholt/TeamProfileGenerator"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/emilyarnholt?tab=repositories"
+    },
+    "homepage": "https://github.com/emilyarnholt/TeamProfileGenerator/blob/master/README.md",
+    "dependencies": {
+      "inquirer": "^6.3.1"
+    },
+    "devDependencies": {
+      "jest": "^24.9.0"
+    }
+  }
